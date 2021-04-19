@@ -86,7 +86,6 @@ figcaption{
     padding: 2px;
 
     flex-direction: row;
-    
 
 }
 #photo2{
@@ -130,7 +129,7 @@ h5{
     align-items: center;
     padding: 10px;
     margin-top: 5px;
-    margin-left: 600px;
+    margin-left: 400px;
 
 }
 #studio{
