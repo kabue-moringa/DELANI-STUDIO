@@ -75,9 +75,9 @@ figcaption{
     text-align: center;
     margin-left: 150px;
 }
-#bounce{
-    margin-bottom: 400px;
-    padding: 180px;
+.click{
+    margin-bottom: 10%;
+    padding: 80px;
 }
 #photo{
     display: flex;
