@@ -13,8 +13,9 @@ h1{
 h3{
     text-align: center;
 }
+
 .overlay{
-    background-image: url(./assets/backgrounds/h_img.jpg);
+    background-image: url(./assets/backgrounds/1.jpg);
     padding:200px;
     color: whitesmoke;
     font-weight: bold;
@@ -48,6 +49,7 @@ h4{
 figcaption{
     margin-top: 20px;
 }
+
 .container-fluid {
     margin: 0;
     padding: 0;
@@ -57,6 +59,7 @@ figcaption{
     background-color: rgba(0, 0, 0, 0.6);
     height: 668px;
 }
+
 .overlay > img, .h-text {
     position: relative;
     top: 33%;
@@ -86,6 +89,7 @@ figcaption{
     margin: 20px;
 
 }
+
 h5{
     text-align: center;
     font-family: cursive;
@@ -112,6 +116,7 @@ h5{
     text-align: top right;
     align-items: top right;
 }
+
 .social{
     align-items: center;
     padding: 10px;
@@ -128,16 +133,13 @@ h5{
 .design p{
 display: none;
 }
-.design p{
+.devp,
+.prop{
     display: none;
-    }
-    .devp,
-    .prop{
-        display: none;
-    }
-    .container-fluid{
-        text-align: center;
-    }
+}
+.container-fluid{
+    text-align: center;
+}
 
 
 
