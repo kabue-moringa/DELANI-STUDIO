@@ -70,6 +70,22 @@ figcaption{
 #bounce{
     margin-top: 150px;
 }
+#photo{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    padding: 2px;
+    margin: 20px;
+
+}
+#photo2{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    padding: 2px;
+    margin: 20px;
+
+}
 
 
 
