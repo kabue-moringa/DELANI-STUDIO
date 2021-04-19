@@ -64,6 +64,12 @@ figcaption{
 .h-text{
     font-family: 'Comfortaa', cursive;
 }
+.smaller-text{
+    font-family: sans-serif;
+}
+#bounce{
+    margin-top: 150px;
+}
 
 
 
