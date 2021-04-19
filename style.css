@@ -112,6 +112,13 @@ h5{
     text-align: top right;
     align-items: top right;
 }
+.social{
+    align-items: center;
+    padding: 10px;
+    margin-top: 5px;
+    margin-left: 600px;
+
+}
 
 
 
