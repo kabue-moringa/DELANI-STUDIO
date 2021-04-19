@@ -119,6 +119,15 @@ h5{
     margin-left: 600px;
 
 }
+#studio{
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+
+}
+.design p{
+display: none;
+}
 
 
 
