@@ -90,6 +90,28 @@ h5{
     text-align: center;
     font-family: cursive;
 }
+.cont{
+    background-image: url(./assets/backgrounds/c_image.jpg);
+    height: 350px;
+    padding: 15px;
+    text-align: center;
+    margin-top: 50px;
+    color: white;
+    align-items: center;
+    margin-bottom: 10px;
+}
+#pa{
+    color: white;
+    padding: 90px;
+    border-style: ridge;
+    border-width: 1px;
+    width: 30%;
+    margin-bottom: 20px;
+    margin-left: 550px;
+    margin-top: 0px;
+    text-align: top right;
+    align-items: top right;
+}
 
 
 
