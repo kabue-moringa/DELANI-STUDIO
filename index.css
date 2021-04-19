@@ -15,7 +15,7 @@ h3{
 }
 
 .overlay{
-    background-image: url(./assets/backgrounds/1.jpg);
+    background-image: url(./assets/backgrounds/h_img.jpg);
     padding:200px;
     color: whitesmoke;
     font-weight: bold;
@@ -66,18 +66,24 @@ figcaption{
 }
 .h-text{
     font-family: 'Comfortaa', cursive;
+    text-align: center;
+    align-items: center;
+    margin-left: 350px;
 }
 .smaller-text{
     font-family: sans-serif;
+    text-align: center;
+    margin-left: 150px;
 }
 #bounce{
-    margin-top: 150px;
+    margin-bottom: 400px;
+    padding: 180px;
 }
 #photo{
     display: flex;
     flex-wrap: wrap;
     align-items: center;
-    padding: 2px;
+    padding: 20px;
     margin: 20px;
 
 }
@@ -87,6 +93,7 @@ figcaption{
     align-items: center;
     padding: 2px;
     margin: 20px;
+    margin-left: 20px;
 
 }
 
@@ -139,6 +146,7 @@ display: none;
 }
 .container-fluid{
     text-align: center;
+    align-items: center;
 }
 
 

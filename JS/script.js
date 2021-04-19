@@ -12,12 +12,13 @@ $(document).ready(function () {
       $("#img 3").toggle();
       $(".prop").toggle();
     });
-
+  
+  
     $("#devp").click(function () {
       $(".devp").slideUp('1500');
       $(".devp").slideDown('1500');
     });
-
+  
   document.getElementById("mc-embedded-submit").addEventListener('click', function(){
     var name = $("#mce-NAME").val();
     if ($("#mce-NAME").val() &&  $("#mce-EMAIL").val()) {
@@ -25,4 +26,5 @@ $(document).ready(function () {
     } else {
       alert("Please fill all fields!");
     }
+  
   })
