@@ -22,6 +22,12 @@ h3{
     height: 0px;
     text-align: center;
 }
+#mouse-click{
+    animation-duration: 2s;
+    padding: 180px;
+    ;
+
+}
 .ser{
     text-align: center;
     background-image: url(s_image.jpg);
@@ -74,10 +80,6 @@ figcaption{
     font-family: sans-serif;
     text-align: center;
     margin-left: 150px;
-}
-.click{
-    margin-bottom: 10%;
-    padding: 180px;
 }
 #photo{
     display: flex;
